@@ -1,0 +1,23 @@
+sort1 uses: Bubble Sort
+
+How do you know?: it took more time for unsorted data.
+
+sort2 uses: Merge Sort
+
+How do you know?: it took less time campring others to sort random and sorted data
+
+sort3 uses: Selection Sort
+
+How do you know?: cz it takes about same or more time to sort sorted or random data
+
+
+sort 1 on random5000.txt : 0.63s
+sort 1 on sorted5000.txt : 0.116s
+
+so according to me the sort1 is
+
+sort 2 on random5000.txt : 0.24s
+sort 2 on sorted5000.txt : 0.40s
+
+sort 3 on random5000.txt : 0.57s
+sort 3 on sorted5000.txt : 0.48s
